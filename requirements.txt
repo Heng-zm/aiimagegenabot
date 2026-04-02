@@ -1,0 +1,6 @@
+python-telegram-bot
+supabase
+replicate
+python-dotenv
+google-genai
+httpx
